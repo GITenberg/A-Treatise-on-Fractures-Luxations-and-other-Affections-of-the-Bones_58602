@@ -1,10 +1,13 @@
 _repo: A-Treatise-on-Fractures-Luxations-and-other-Affections-of-the-Bones_58602
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Caldwell, Charles
     gutenberg_agent_id: '50049'
     url: http://www.gutenberg.org/2009/agents/50049
+covers:
+- cover_type: archival
+  image_path: 58602-h/images/cover.jpg
 creator:
   author:
     agent_name: Desault, Pierre-Joseph
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '47149'
     url: http://www.gutenberg.org/2009/agents/47149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58602#A-Treatise-on-Fractures-Luxations-and-other-Affections-of-the-Bones
 gutenberg_issued: '2019-01-03'
 gutenberg_type: Text
 identifiers:

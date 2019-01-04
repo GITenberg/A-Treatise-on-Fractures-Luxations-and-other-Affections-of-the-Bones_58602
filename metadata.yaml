@@ -1,0 +1,36 @@
+_repo: A-Treatise-on-Fractures-Luxations-and-other-Affections-of-the-Bones_58602
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Caldwell, Charles
+    gutenberg_agent_id: '50049'
+    url: http://www.gutenberg.org/2009/agents/50049
+creator:
+  author:
+    agent_name: Desault, Pierre-Joseph
+    gutenberg_agent_id: '50048'
+    url: http://www.gutenberg.org/2009/agents/50048
+  editor:
+    agent_name: Bichat, Xavier
+    aliases:
+    - Bichat, X. (Xavier)
+    - Bichat, F.-X. (François-Xavier)
+    - Bichat, Marie Francois Xavier
+    - Bichat, Marie François Xavier
+    birthdate: 1771
+    deathdate: 1802
+    gutenberg_agent_id: '47149'
+    url: http://www.gutenberg.org/2009/agents/47149
+description: ''
+gutenberg_issued: '2019-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Treatise on Fractures, Luxations, and other Affections of the Bones
+url: http://www.gutenberg.org/ebooks/58602
